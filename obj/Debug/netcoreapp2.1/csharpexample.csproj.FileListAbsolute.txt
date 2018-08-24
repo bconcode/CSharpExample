@@ -1,0 +1,11 @@
+C:\Projects\csharpexample\bin\Debug\netcoreapp2.1\csharpexample.deps.json
+C:\Projects\csharpexample\bin\Debug\netcoreapp2.1\csharpexample.runtimeconfig.json
+C:\Projects\csharpexample\bin\Debug\netcoreapp2.1\csharpexample.runtimeconfig.dev.json
+C:\Projects\csharpexample\bin\Debug\netcoreapp2.1\csharpexample.dll
+C:\Projects\csharpexample\bin\Debug\netcoreapp2.1\csharpexample.pdb
+C:\Projects\csharpexample\obj\Debug\netcoreapp2.1\csharpexample.csprojAssemblyReference.cache
+C:\Projects\csharpexample\obj\Debug\netcoreapp2.1\csharpexample.csproj.CoreCompileInputs.cache
+C:\Projects\csharpexample\obj\Debug\netcoreapp2.1\csharpexample.AssemblyInfoInputs.cache
+C:\Projects\csharpexample\obj\Debug\netcoreapp2.1\csharpexample.AssemblyInfo.cs
+C:\Projects\csharpexample\obj\Debug\netcoreapp2.1\csharpexample.dll
+C:\Projects\csharpexample\obj\Debug\netcoreapp2.1\csharpexample.pdb
